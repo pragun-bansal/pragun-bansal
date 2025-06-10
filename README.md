@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragun Bansal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pragunbansals-projects.vercel.app/)
+(https://portfolio-pragunbansals-projects.vercel.app/)]
 </div>
 
 
